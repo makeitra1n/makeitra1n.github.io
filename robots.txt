@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://makeitra1n.github.io/sitemap.xml
